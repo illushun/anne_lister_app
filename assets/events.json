@@ -1,0 +1,1288 @@
+{
+    "events": [
+        {
+            "27-03-2023": [
+                {
+                    "name": "Anne Lister - In Her Words Exhibition",
+                    "location": "West Yorkshire History Centre, 127 Kirkgate, Wakefield, WF1 1JG",
+                    "information": "There are a lot of ways to describe the dynamic Anne Lister.  Visit the West Yorkshire History Centre, Wakefield, for a unique chance to see archival material from the Shibden Hall collection including some of Anne’s famous diaries on display.  Find out about the life of a remarkable woman in her own words.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://www.wyjs.org.uk/archive-service/events/anne-lister-in-her-words/",
+                    "images": [
+                        "assets/images/events/history_centre/1.jpg",
+                        "assets/images/events/history_centre/2.jpg",
+                        "assets/images/events/history_centre/3.jpg",
+                        "assets/images/events/history_centre/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Minster",
+                    "location": "Causeway, Halifax HX1 1QL",
+                    "information": "The magnificent 900-year old building that was such an important part of Anne Lister’s life and is where she was baptised, worshipped and is buried, will be open for quiet reflection throughout the Festival. The Minster will be open every day of the Festival from 10am-4pm (12-4pm on Sunday), and refreshments will be available.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://halifaxminster.org.uk/",
+                    "images": [
+                        "assets/images/events/minster/1.jpg",
+                        "assets/images/events/minster/2.jpg",
+                        "assets/images/events/minster/3.jpg",
+                        "assets/images/events/minster/4.jpg",
+                        "assets/images/events/minster/5.jpg"
+                    ]
+                },
+                {
+                    "name": "Shibden Hall",
+                    "location": "Lister's Rd, Halifax HX3 6XG",
+                    "information": "Shibden Hall dates back to 1420 and offers visitors a fascinating journey through the lives of the people who lived and worked here, including the noted lesbian diarist Anne Lister. Shibden Hall is the focus of the BBC drama series ‘Gentleman Jack’, written by Sally Wainwright, exploring the life of Anne Lister, and is where much of the series was filmed. The Hall is surrounded by the beautifully restored gardens and estate that forms Shibden Park. There are a range of features and attractions in the Park, including a café and visitor facilities, miniature railway, boating lake, walking trails, play area and woodland areas.",
+                    "start": "10:00",
+                    "end": "17:00",
+                    "booking": "Required",
+                    "website": "https://museums.calderdale.gov.uk/visit/shibden-hall",
+                    "images": [
+                        "assets/images/events/shibden_hall/1.jpg",
+                        "assets/images/events/shibden_hall/2.jpg",
+                        "assets/images/events/shibden_hall/3.jpg",
+                        "assets/images/events/shibden_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Walking Tour of Halifax",
+                    "location": "10, The Square Woolshops, Halifax HX1 1RJ",
+                    "information": "Welcome to Halifax! Whether you have lived here all your life or it is your first time here and want to orientate yourself around town through the buildings and stories of our history, join us for a fascinating insight into Halifax Heritage. Come for a walk with a local guide, pointing out buildings and places previously unknown to you and hearing interesting details from the Medieval, Georgian and Victorian eras through to more modern times! Learn about the philanthropists and industrialists who shaped the heritage of Halifax through generations and encounter some of the listed buildings, including the Town Hall and the Piece Hall, which they left as their legacy.",
+                    "start": "10:30",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic",
+                    "images": [
+                        "assets/images/events/borough_market/1.jpg",
+                        "assets/images/events/borough_market/2.jpg",
+                        "assets/images/events/borough_market/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Streets In The Sky Tours",
+                    "location": "19 Albion St, Halifax HX1 1DU",
+                    "information": "On these tours you’ll explore the unique architecture of the Grade II* listed Halifax Borough Market, learn about its history, visit both of the Market balcony ‘Streets in the Sky’, where the houses are still used by the businesses below and a couple are still lived in; and get an exclusive look inside one of the uninhabited houses.",
+                    "start": "11:00",
+                    "end": "12:15",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/streets-in-the-sky-tour-monday-27th-march-2023-11am-tickets-529426969317",
+                    "images": [
+                        "assets/images/events/streets_in_the_sky/1.jpg",
+                        "assets/images/events/streets_in_the_sky/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Piece Hall Tour",
+                    "location": "Blackledge, Halifax HX1 1RE",
+                    "information": "Over its almost 250-yr history, The Piece Hall has been home to the weird, the wonderful and the fantastical. Experience a guided tour with one of our knowledgeable heritage guides who will lead you around the grand colonnades and delve deeper into The Piece Hall’s captivating past.",
+                    "start": "13:30",
+                    "end": "14:30",
+                    "booking": "Required",
+                    "website": "https://www.thepiecehall.co.uk/heritage/heritage-tours/",
+                    "images": [
+                        "assets/images/events/piece_hall/1.jpg",
+                        "assets/images/events/piece_hall/2.jpg",
+                        "assets/images/events/piece_hall/3.jpg",
+                        "assets/images/events/piece_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Streets In The Sky Tours",
+                    "location": "19 Albion St, Halifax HX1 1DU",
+                    "information": "On these tours you’ll explore the unique architecture of the Grade II* listed Halifax Borough Market, learn about its history, visit both of the Market balcony ‘Streets in the Sky’, where the houses are still used by the businesses below and a couple are still lived in; and get an exclusive look inside one of the uninhabited houses.",
+                    "start": "13:30",
+                    "end": "14:45",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/streets-in-the-sky-tour-monday-27th-march-2023-130pm-tickets-529441201887",
+                    "images": [
+                        "assets/images/events/streets_in_the_sky/1.jpg",
+                        "assets/images/events/streets_in_the_sky/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Streets In The Sky Tours",
+                    "location": "19 Albion St, Halifax HX1 1DU",
+                    "information": "On these tours you’ll explore the unique architecture of the Grade II* listed Halifax Borough Market, learn about its history, visit both of the Market balcony ‘Streets in the Sky’, where the houses are still used by the businesses below and a couple are still lived in; and get an exclusive look inside one of the uninhabited houses.",
+                    "start": "15:00",
+                    "end": "16:15",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/streets-in-the-sky-tour-monday-27th-march-2023-3pm-tickets-529449637117",
+                    "images": [
+                        "assets/images/events/streets_in_the_sky/1.jpg",
+                        "assets/images/events/streets_in_the_sky/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Anne Lister-Themed Afternoon Tea",
+                    "location": "Harveys of Halifax, Restaurant 2nd Floor, Rawson Street, Halifax, HX1 1LJ",
+                    "information": "This special Anne Lister Afternoon Tea will be in the comfortable and attractive settings of Harveys famous restaurant on the 2nd Floor, and will offer a selection of sandwiches, cakes, and of course a scone with clotted cream and jam! You can choose between either tea/coffee, or for a small extra charge really celebrate in style with a glass of prosecco. The perfect welcome to Halifax, and a great place to relax with friends – new or old, at this exclusive event for the Anne Lister Birthday Festival!",
+                    "start": "15:00",
+                    "end": "",
+                    "booking": "Required",
+                    "website": "https://harveysofhalifax.co.uk/products/anne-lister-themed-afternoon-tea",
+                    "images": [
+                        "assets/images/events/afternoon_tea/1.jpg",
+                        "assets/images/events/afternoon_tea/2.webp"
+                    ]
+                },
+                {
+                    "name": "Adult Coding Workshop",
+                    "location": "Library, Square Rd, Halifax HX1 1QG",
+                    "information": "Inspired by Anne Lister’s use of code we are running an introduction to computer coding workshop for adults. Aimed at total beginners you will be introduced to the concept of coding, and then using a basic programme called Scratch you will learn to make your own version of the classic game Pong – with an Anne Lister twist, of course!",
+                    "start": "15:00",
+                    "end": "17:00",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/calderdalelibraries",
+                    "images": [
+                        "assets/images/events/coding_workshop/1.jpg",
+                        "assets/images/events/coding_workshop/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Murders, Sudden Deaths, Crimes & Illegal Burials Walk",
+                    "location": " Halifax Gibbet, New Bedford Street, HX1 5RA",
+                    "information": "Starting at the notorious Halifax Gibbet – scene of many violent deaths, we shall visit the site of a Luddite ‘crime’ of 1812, locate the place of an attempted murder by soldiers in Chartist times, learn about the goldsmith arsonist, and the slain newspaper compositor. Also, find out about the Christmas murder of 1908, the killing of a Tudor vicar, and the early crimes of JRH Christie. But what about illegal burials?",
+                    "start": "19:00",
+                    "end": "21:00",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/calderdale-heritage-walks",
+                    "images": [
+                        "assets/images/events/burials_walk/1.jpg",
+                        "assets/images/events/burials_walk/2.jpg"
+                    ]
+                }
+            ],
+            "28-03-2023": [
+                {
+                    "name": "Anne Lister - In Her Words Exhibition",
+                    "location": "West Yorkshire History Centre, 127 Kirkgate, Wakefield, WF1 1JG",
+                    "information": "There are a lot of ways to describe the dynamic Anne Lister.  Visit the West Yorkshire History Centre, Wakefield, for a unique chance to see archival material from the Shibden Hall collection including some of Anne’s famous diaries on display.  Find out about the life of a remarkable woman in her own words.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://www.wyjs.org.uk/archive-service/events/anne-lister-in-her-words/",
+                    "images": [
+                        "assets/images/events/history_centre/1.jpg",
+                        "assets/images/events/history_centre/2.jpg",
+                        "assets/images/events/history_centre/3.jpg",
+                        "assets/images/events/history_centre/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Minster",
+                    "location": "Causeway, Halifax HX1 1QL",
+                    "information": "The magnificent 900-year old building that was such an important part of Anne Lister’s life and is where she was baptised, worshipped and is buried, will be open for quiet reflection throughout the Festival. The Minster will be open every day of the Festival from 10am-4pm (12-4pm on Sunday), and refreshments will be available.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://halifaxminster.org.uk/",
+                    "images": [
+                        "assets/images/events/minster/1.jpg",
+                        "assets/images/events/minster/2.jpg",
+                        "assets/images/events/minster/3.jpg",
+                        "assets/images/events/minster/4.jpg",
+                        "assets/images/events/minster/5.jpg"
+                    ]
+                },
+                {
+                    "name": "Shibden Hall",
+                    "location": "Lister's Rd, Halifax HX3 6XG",
+                    "information": "Shibden Hall dates back to 1420 and offers visitors a fascinating journey through the lives of the people who lived and worked here, including the noted lesbian diarist Anne Lister. Shibden Hall is the focus of the BBC drama series ‘Gentleman Jack’, written by Sally Wainwright, exploring the life of Anne Lister, and is where much of the series was filmed. The Hall is surrounded by the beautifully restored gardens and estate that forms Shibden Park. There are a range of features and attractions in the Park, including a café and visitor facilities, miniature railway, boating lake, walking trails, play area and woodland areas.",
+                    "start": "10:00",
+                    "end": "17:00",
+                    "booking": "Required",
+                    "website": "https://museums.calderdale.gov.uk/visit/shibden-hall",
+                    "images": [
+                        "assets/images/events/shibden_hall/1.jpg",
+                        "assets/images/events/shibden_hall/2.jpg",
+                        "assets/images/events/shibden_hall/3.jpg",
+                        "assets/images/events/shibden_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Town Hall Tour",
+                    "location": "Crossley Street, Halifax, West Yorkshire, HX1 1UJ",
+                    "information": "This striking building was voted one of the top ten Town Halls in the country in 2008 by Architect Today magazine and has been described as truly outstanding by Historic England. Designed by Sir Charles Barry, architect of the Houses of Parliament, it was opened on 4 August 1863 by HRH The Prince of Wales. It was built to be the most grand and significant building in the town and stands today as a proud and permanent reminder of the affluence of Halifax in the Victorian era. This building never fails to impress visitors who travel from all over the country and world to see its splendours!",
+                    "start": "10:00",
+                    "end": "11:30",
+                    "booking": "Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/town_hall/1.jpg",
+                        "assets/images/events/town_hall/2.jpg",
+                        "assets/images/events/town_hall/3.jpg",
+                        "assets/images/events/town_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Dean Clough Heritage Tour",
+                    "location": "D Mill Reception, Dean Clough Dean Clough Halifax HX3 5AX",
+                    "information": "Learn about the history of Halifax’s amazing Dean Clough site and the heritage of it, including its role in the Industrial Revolution and its transformation into a modern business and cultural hub",
+                    "start": "10:00",
+                    "end": "11:30",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/dean-clough-heritage-tours-tickets-511531162477",
+                    "images": [
+                        "assets/images/events/dean_clough/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Walking Tour of Halifax",
+                    "location": "10, The Square Woolshops, Halifax HX1 1RJ",
+                    "information": "Welcome to Halifax! Whether you have lived here all your life or it is your first time here and want to orientate yourself around town through the buildings and stories of our history, join us for a fascinating insight into Halifax Heritage. Come for a walk with a local guide, pointing out buildings and places previously unknown to you and hearing interesting details from the Medieval, Georgian and Victorian eras through to more modern times! Learn about the philanthropists and industrialists who shaped the heritage of Halifax through generations and encounter some of the listed buildings, including the Town Hall and the Piece Hall, which they left as their legacy.",
+                    "start": "10:30",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic",
+                    "images": [
+                        "assets/images/events/borough_market/1.jpg",
+                        "assets/images/events/borough_market/2.jpg",
+                        "assets/images/events/borough_market/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Private Gentleman Jack Costume Viewing",
+                    "location": "Bankfield Museum Boothtown Road Halifax HX3 6HG",
+                    "information": "A chance to see some of the costumes from Gentleman Jack by costume designer Tom Pye up close. Join costume and textiles curator Elinor Camille-Wood for a closer look at some of the costumes from Gentleman Jack by costume designer Tom Pye. An exclusive chance to get up close to a selection of costumes from the series and see their fabric, construction and inspiration from the 1830s.",
+                    "start": "11:00",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/costumes-from-gentleman-jack-tickets-474599077617?aff=ebdsoporgprofile",
+                    "images": [
+                        "assets/images/events/gentleman_jack_costumes/1.jpg",
+                        "assets/images/events/gentleman_jack_costumes/2.jpg",
+                        "assets/images/events/gentleman_jack_costumes/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Piece Hall Tour",
+                    "location": "Blackledge, Halifax HX1 1RE",
+                    "information": "Over its almost 250-yr history, The Piece Hall has been home to the weird, the wonderful and the fantastical. Experience a guided tour with one of our knowledgeable heritage guides who will lead you around the grand colonnades and delve deeper into The Piece Hall’s captivating past.",
+                    "start": "13:30",
+                    "end": "14:30",
+                    "booking": "Required",
+                    "website": "https://www.thepiecehall.co.uk/heritage/heritage-tours/",
+                    "images": [
+                        "assets/images/events/piece_hall/1.jpg",
+                        "assets/images/events/piece_hall/2.jpg",
+                        "assets/images/events/piece_hall/3.jpg",
+                        "assets/images/events/piece_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Lower Brear Walk",
+                    "location": "Coffee Culture In The Park,  Mereside Centre, Shibden Park, HX3 6XG",
+                    "information": "David Glover will lead a circular walk up to Lower Brear, and then on to Mytholm, talking about some of the properties which were owned by Anne Lister, and history along the way. If it is possible then we shall pay a visit inside Lower Brear. Should this happen then there will be no seating available inside the house, but this would be an exclusive opportunity to see inside one of Anne Lister’s ancient properties, tenanted in her time by George Robinson.",
+                    "start": "14:00",
+                    "end": "15:30",
+                    "booking": "Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/lower_brear_walk/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Private Gentleman Jack Costume Viewing",
+                    "location": "Bankfield Museum Boothtown Road Halifax HX3 6HG",
+                    "information": "A chance to see some of the costumes from Gentleman Jack by costume designer Tom Pye up close. Join costume and textiles curator Elinor Camille-Wood for a closer look at some of the costumes from Gentleman Jack by costume designer Tom Pye. An exclusive chance to get up close to a selection of costumes from the series and see their fabric, construction and inspiration from the 1830s.",
+                    "start": "14:00",
+                    "end": "15:30",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/costumes-from-gentleman-jack-tickets-474599077617?aff=ebdsoporgprofile",
+                    "images": [
+                        "assets/images/events/gentleman_jack_costumes/1.jpg",
+                        "assets/images/events/gentleman_jack_costumes/2.jpg",
+                        "assets/images/events/gentleman_jack_costumes/3.jpg"
+                    ]
+                }
+            ],
+            "29-03-2023": [
+                {
+                    "name": "Archives Search Room",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG",
+                    "information": "Ever wanted to see one of Anne’s famous diaries in person? Ever wondered what other amazing paper records Anne left behind? Well, we have got you covered, visit our search room at the Central Library and Archives in Halifax to see a display of diaries and other items from the Shibden Hall archive collection.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/central_library/1.jpg",
+                        "assets/images/events/central_library/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Minster",
+                    "location": "Causeway, Halifax HX1 1QL",
+                    "information": "The magnificent 900-year old building that was such an important part of Anne Lister’s life and is where she was baptised, worshipped and is buried, will be open for quiet reflection throughout the Festival. The Minster will be open every day of the Festival from 10am-4pm (12-4pm on Sunday), and refreshments will be available.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://halifaxminster.org.uk/",
+                    "images": [
+                        "assets/images/events/minster/1.jpg",
+                        "assets/images/events/minster/2.jpg",
+                        "assets/images/events/minster/3.jpg",
+                        "assets/images/events/minster/4.jpg",
+                        "assets/images/events/minster/5.jpg"
+                    ]
+                },
+                {
+                    "name": "Shibden Hall",
+                    "location": "Lister's Rd, Halifax HX3 6XG",
+                    "information": "Shibden Hall dates back to 1420 and offers visitors a fascinating journey through the lives of the people who lived and worked here, including the noted lesbian diarist Anne Lister. Shibden Hall is the focus of the BBC drama series ‘Gentleman Jack’, written by Sally Wainwright, exploring the life of Anne Lister, and is where much of the series was filmed. The Hall is surrounded by the beautifully restored gardens and estate that forms Shibden Park. There are a range of features and attractions in the Park, including a café and visitor facilities, miniature railway, boating lake, walking trails, play area and woodland areas.",
+                    "start": "10:00",
+                    "end": "17:00",
+                    "booking": "Required",
+                    "website": "https://museums.calderdale.gov.uk/visit/shibden-hall",
+                    "images": [
+                        "assets/images/events/shibden_hall/1.jpg",
+                        "assets/images/events/shibden_hall/2.jpg",
+                        "assets/images/events/shibden_hall/3.jpg",
+                        "assets/images/events/shibden_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Walking Tour of Halifax",
+                    "location": "10, The Square Woolshops, Halifax HX1 1RJ",
+                    "information": "Welcome to Halifax! Whether you have lived here all your life or it is your first time here and want to orientate yourself around town through the buildings and stories of our history, join us for a fascinating insight into Halifax Heritage. Come for a walk with a local guide, pointing out buildings and places previously unknown to you and hearing interesting details from the Medieval, Georgian and Victorian eras through to more modern times! Learn about the philanthropists and industrialists who shaped the heritage of Halifax through generations and encounter some of the listed buildings, including the Town Hall and the Piece Hall, which they left as their legacy.",
+                    "start": "10:30",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic",
+                    "images": [
+                        "assets/images/events/borough_market/1.jpg",
+                        "assets/images/events/borough_market/2.jpg",
+                        "assets/images/events/borough_market/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Piece Hall Tour",
+                    "location": "Blackledge, Halifax HX1 1RE",
+                    "information": "Over its almost 250-yr history, The Piece Hall has been home to the weird, the wonderful and the fantastical. Experience a guided tour with one of our knowledgeable heritage guides who will lead you around the grand colonnades and delve deeper into The Piece Hall’s captivating past.",
+                    "start": "13:30",
+                    "end": "14:30",
+                    "booking": "Required",
+                    "website": "https://www.thepiecehall.co.uk/heritage/heritage-tours/",
+                    "images": [
+                        "assets/images/events/piece_hall/1.jpg",
+                        "assets/images/events/piece_hall/2.jpg",
+                        "assets/images/events/piece_hall/3.jpg",
+                        "assets/images/events/piece_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Anne Lister-Themed Afternoon Tea",
+                    "location": "Harveys of Halifax, Restaurant 2nd Floor, Rawson Street, Halifax, HX1 1LJ",
+                    "information": "This special Anne Lister Afternoon Tea will be in the comfortable and attractive settings of Harveys famous restaurant on the 2nd Floor, and will offer a selection of sandwiches, cakes, and of course a scone with clotted cream and jam! You can choose between either tea/coffee, or for a small extra charge really celebrate in style with a glass of prosecco. The perfect welcome to Halifax, and a great place to relax with friends – new or old, at this exclusive event for the Anne Lister Birthday Festival!",
+                    "start": "15:00",
+                    "end": "",
+                    "booking": "Required",
+                    "website": "https://harveysofhalifax.co.uk/products/anne-lister-themed-afternoon-tea",
+                    "images": [
+                        "assets/images/events/afternoon_tea/1.jpg",
+                        "assets/images/events/afternoon_tea/2.webp"
+                    ]
+                },
+                {
+                    "name": "'Some Gay Kings, Queens & Princess' Talk",
+                    "location": "Calderdale Industrial Museum Square Road Halifax HX1 1QG",
+                    "information": "David Glover will give an illustrated lecture, with tales of Edward the Second, Queen Christina of Sweden, Queen Anne, Ludwig II of Bavaria, a cross-dressing archduke, an uncle of the late Queen, an uncle of Prince Philip, and others…!",
+                    "start": "19:30",
+                    "end": "21:00",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/some-gay-kings-queens-and-princes-tickets-517668940737",
+                    "images": [
+                        "assets/images/events/industrial_museum/1.jpg"
+                    ]
+                }
+            ],
+            "30-03-2023": [
+                {
+                    "name": "Anne Lister - In Her Words Exhibition",
+                    "location": "West Yorkshire History Centre, 127 Kirkgate, Wakefield, WF1 1JG",
+                    "information": "There are a lot of ways to describe the dynamic Anne Lister.  Visit the West Yorkshire History Centre, Wakefield, for a unique chance to see archival material from the Shibden Hall collection including some of Anne’s famous diaries on display.  Find out about the life of a remarkable woman in her own words.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://www.wyjs.org.uk/archive-service/events/anne-lister-in-her-words/",
+                    "images": [
+                        "assets/images/events/history_centre/1.jpg",
+                        "assets/images/events/history_centre/2.jpg",
+                        "assets/images/events/history_centre/3.jpg",
+                        "assets/images/events/history_centre/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Archives Search Room",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG, England, UK",
+                    "information": "Ever wanted to see one of Anne’s famous diaries in person? Ever wondered what other amazing paper records Anne left behind? Well, we have got you covered, visit our search room at the Central Library and Archives in Halifax to see a display of diaries and other items from the Shibden Hall archive collection.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/central_library/1.jpg",
+                        "assets/images/events/central_library/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Calderdale Industrial Museum",
+                    "location": "Calderdale Industrial Museum, Square Road, Halifax, HX1 1QG",
+                    "information": "Calderdale Industrial Museum is a fascinating museum, dedicated to the industrial heritage of the area from domestic textile manufacture in the 17thC through to modern machine tools. The museum contains a number of working machines, some of which date back almost two hundred years – all of which were either built or used in Halifax.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/industrial_museum/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Minster",
+                    "location": "Causeway, Halifax HX1 1QL",
+                    "information": "The magnificent 900-year old building that was such an important part of Anne Lister’s life and is where she was baptised, worshipped and is buried, will be open for quiet reflection throughout the Festival. The Minster will be open every day of the Festival from 10am-4pm (12-4pm on Sunday), and refreshments will be available.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://halifaxminster.org.uk/",
+                    "images": [
+                        "assets/images/events/minster/1.jpg",
+                        "assets/images/events/minster/2.jpg",
+                        "assets/images/events/minster/3.jpg",
+                        "assets/images/events/minster/4.jpg",
+                        "assets/images/events/minster/5.jpg"
+                    ]
+                },
+                {
+                    "name": "Shibden Hall",
+                    "location": "Lister's Rd, Halifax HX3 6XG",
+                    "information": "Shibden Hall dates back to 1420 and offers visitors a fascinating journey through the lives of the people who lived and worked here, including the noted lesbian diarist Anne Lister. Shibden Hall is the focus of the BBC drama series ‘Gentleman Jack’, written by Sally Wainwright, exploring the life of Anne Lister, and is where much of the series was filmed. The Hall is surrounded by the beautifully restored gardens and estate that forms Shibden Park. There are a range of features and attractions in the Park, including a café and visitor facilities, miniature railway, boating lake, walking trails, play area and woodland areas.",
+                    "start": "10:00",
+                    "end": "17:00",
+                    "booking": "Required",
+                    "website": "https://museums.calderdale.gov.uk/visit/shibden-hall",
+                    "images": [
+                        "assets/images/events/shibden_hall/1.jpg",
+                        "assets/images/events/shibden_hall/2.jpg",
+                        "assets/images/events/shibden_hall/3.jpg",
+                        "assets/images/events/shibden_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Dean Clough Heritage Tour",
+                    "location": "D Mill Reception, Dean Clough Dean Clough Halifax HX3 5AX",
+                    "information": "Learn about the history of Halifax’s amazing Dean Clough site and the heritage of it, including its role in the Industrial Revolution and its transformation into a modern business and cultural hub",
+                    "start": "10:00",
+                    "end": "11:30",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/dean-clough-heritage-tours-tickets-511531162477",
+                    "images": [
+                        "assets/images/events/dean_clough/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Ann Walker Watercolour Workshop",
+                    "location": "Bankfield Museum, Akroyd Park, Boothtown Road, Halifax, HX3 6HG",
+                    "information": "Enjoy the Ann Walker experience – no bonnet required! Come and join local artist Jane Austin for a watercolour workshop in a relaxed atmosphere at Bankfield Museum. A beautiful museum free to explore with ample parking and just a hop from Halifax town – get there on the hop on-hop off shuttle bus!",
+                    "start": "10:00",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.janeaustin.co.uk/",
+                    "images": [
+                        "assets/images/events/ann_walker_watercolour/1.jpg",
+                        "assets/images/events/ann_walker_watercolour/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Anne Lister Walk",
+                    "location": "Causeway, Halifax HX1 1QL",
+                    "information": "Meet at Halifax Minster, where the walk up to Beacon Hill, via the ancient Old Bank – Anne Lister’s regular route from and to Halifax to do her daily business, including to buy her diaries, to see her solicitor, and of course to worship at what was then the Parish Church.",
+                    "start": "10:30",
+                    "end": "",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/anne_lister_walk/1.webp"
+                    ]
+                },
+                {
+                    "name": "Ann Walker Watercolour Workshop",
+                    "location": "Bankfield Museum, Akroyd Park, Boothtown Road, Halifax, HX3 6HG",
+                    "information": "Enjoy the Ann Walker experience – no bonnet required! Come and join local artist Jane Austin for a watercolour workshop in a relaxed atmosphere at Bankfield Museum. A beautiful museum free to explore with ample parking and just a hop from Halifax town – get there on the hop on-hop off shuttle bus!",
+                    "start": "13:00",
+                    "end": "15:30",
+                    "booking": "Required",
+                    "website": "https://www.janeaustin.co.uk/",
+                    "images": [
+                        "assets/images/events/ann_walker_watercolour/1.jpg",
+                        "assets/images/events/ann_walker_watercolour/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Piece Hall Tour",
+                    "location": "Blackledge, Halifax HX1 1RE",
+                    "information": "Over its almost 250-yr history, The Piece Hall has been home to the weird, the wonderful and the fantastical. Experience a guided tour with one of our knowledgeable heritage guides who will lead you around the grand colonnades and delve deeper into The Piece Hall’s captivating past.",
+                    "start": "13:30",
+                    "end": "14:30",
+                    "booking": "Required",
+                    "website": "https://www.thepiecehall.co.uk/heritage/heritage-tours/",
+                    "images": [
+                        "assets/images/events/piece_hall/1.jpg",
+                        "assets/images/events/piece_hall/2.jpg",
+                        "assets/images/events/piece_hall/3.jpg",
+                        "assets/images/events/piece_hall/4.jpg"
+                    ]
+                }
+            ],
+            "31-03-2023": [
+                {
+                    "name": "Anne Lister Society Conference (Day One)",
+                    "location": "",
+                    "information": "Following on from the inaugural sessions in Halifax in April 2022, we are delighted that the Anne Lister Society will reconvene for its second conference, once again in Anne Lister’s hometown of Halifax.",
+                    "start": "9:00",
+                    "end": "17:00",
+                    "booking": "Not Required",
+                    "website": "https://english.northwestern.edu/about/anne-lister-society/als-second-meeting,-2023.html",
+                    "images": [
+                        "assets/images/events/society_conference/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Anne Lister - In Her Words Exhibition",
+                    "location": "West Yorkshire History Centre, 127 Kirkgate, Wakefield, WF1 1JG",
+                    "information": "There are a lot of ways to describe the dynamic Anne Lister.  Visit the West Yorkshire History Centre, Wakefield, for a unique chance to see archival material from the Shibden Hall collection including some of Anne’s famous diaries on display.  Find out about the life of a remarkable woman in her own words.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://www.wyjs.org.uk/archive-service/events/anne-lister-in-her-words/",
+                    "images": [
+                        "assets/images/events/history_centre/1.jpg",
+                        "assets/images/events/history_centre/2.jpg",
+                        "assets/images/events/history_centre/3.jpg",
+                        "assets/images/events/history_centre/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Archives Search Room",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG, England, UK",
+                    "information": "Ever wanted to see one of Anne’s famous diaries in person? Ever wondered what other amazing paper records Anne left behind? Well, we have got you covered, visit our search room at the Central Library and Archives in Halifax to see a display of diaries and other items from the Shibden Hall archive collection.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/central_library/1.jpg",
+                        "assets/images/events/central_library/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Minster",
+                    "location": "Causeway, Halifax HX1 1QL",
+                    "information": "The magnificent 900-year old building that was such an important part of Anne Lister’s life and is where she was baptised, worshipped and is buried, will be open for quiet reflection throughout the Festival. The Minster will be open every day of the Festival from 10am-4pm (12-4pm on Sunday), and refreshments will be available.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://halifaxminster.org.uk/",
+                    "images": [
+                        "assets/images/events/minster/1.jpg",
+                        "assets/images/events/minster/2.jpg",
+                        "assets/images/events/minster/3.jpg",
+                        "assets/images/events/minster/4.jpg",
+                        "assets/images/events/minster/5.jpg"
+                    ]
+                },
+                {
+                    "name": "Shibden Hall",
+                    "location": "Lister's Rd, Halifax HX3 6XG",
+                    "information": "Shibden Hall dates back to 1420 and offers visitors a fascinating journey through the lives of the people who lived and worked here, including the noted lesbian diarist Anne Lister. Shibden Hall is the focus of the BBC drama series ‘Gentleman Jack’, written by Sally Wainwright, exploring the life of Anne Lister, and is where much of the series was filmed. The Hall is surrounded by the beautifully restored gardens and estate that forms Shibden Park. There are a range of features and attractions in the Park, including a café and visitor facilities, miniature railway, boating lake, walking trails, play area and woodland areas.",
+                    "start": "10:00",
+                    "end": "17:00",
+                    "booking": "Required",
+                    "website": "https://museums.calderdale.gov.uk/visit/shibden-hall",
+                    "images": [
+                        "assets/images/events/shibden_hall/1.jpg",
+                        "assets/images/events/shibden_hall/2.jpg",
+                        "assets/images/events/shibden_hall/3.jpg",
+                        "assets/images/events/shibden_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Lightcliffe Tower",
+                    "location": "Old St Matthew’s Churchyard, Lightcliffe, HX3 8TH",
+                    "information": "The Friends of Friendless Churches/Friends of St Matthew’s Churchyard are opening Lightcliffe Tower for two hours, twice on Friday to allow visitors to see inside the Tower and the memorials it contains, including Ann Walker’s newly restored plaque.",
+                    "start": "10:00",
+                    "end": "12:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/lightcliffe_tower/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Walking Tour of Halifax",
+                    "location": "10, The Square Woolshops, Halifax HX1 1RJ",
+                    "information": "Welcome to Halifax! Whether you have lived here all your life or it is your first time here and want to orientate yourself around town through the buildings and stories of our history, join us for a fascinating insight into Halifax Heritage. Come for a walk with a local guide, pointing out buildings and places previously unknown to you and hearing interesting details from the Medieval, Georgian and Victorian eras through to more modern times! Learn about the philanthropists and industrialists who shaped the heritage of Halifax through generations and encounter some of the listed buildings, including the Town Hall and the Piece Hall, which they left as their legacy.",
+                    "start": "10:30",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic",
+                    "images": [
+                        "assets/images/events/borough_market/1.jpg",
+                        "assets/images/events/borough_market/2.jpg",
+                        "assets/images/events/borough_market/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Conserving Anne's Diaries Talk",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG",
+                    "information": "Join our Conservation and Calderdale teams to hear all about the conservation and preservation of Anne’s amazing diaries and how we make the diaries accessible to all online. As well as recent work undertaken to create a 3D diary using photogrammetry.",
+                    "start": "10:30",
+                    "end": "11:30",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/conserving-annes-diaries-tickets-483710339647?aff=ebdssbdestsearch",
+                    "images": [
+                        "assets/images/events/central_library/1.jpg",
+                        "assets/images/events/central_library/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Piece Hall Tour",
+                    "location": "Blackledge, Halifax HX1 1RE",
+                    "information": "Over its almost 250-yr history, The Piece Hall has been home to the weird, the wonderful and the fantastical. Experience a guided tour with one of our knowledgeable heritage guides who will lead you around the grand colonnades and delve deeper into The Piece Hall’s captivating past.",
+                    "start": "13:30",
+                    "end": "14:30",
+                    "booking": "Required",
+                    "website": "https://www.thepiecehall.co.uk/heritage/heritage-tours/",
+                    "images": [
+                        "assets/images/events/piece_hall/1.jpg",
+                        "assets/images/events/piece_hall/2.jpg",
+                        "assets/images/events/piece_hall/3.jpg",
+                        "assets/images/events/piece_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Lightcliffe Tower",
+                    "location": "Old St Matthew’s Churchyard, Lightcliffe, HX3 8TH",
+                    "information": "The Friends of Friendless Churches/Friends of St Matthew’s Churchyard are opening Lightcliffe Tower for two hours, twice on Friday to allow visitors to see inside the Tower and the memorials it contains, including Ann Walker’s newly restored plaque.",
+                    "start": "14:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/lightcliffe_tower/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Conserving Anne's Diaries Talk",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG",
+                    "information": "Join our Conservation and Calderdale teams to hear all about the conservation and preservation of Anne’s amazing diaries and how we make the diaries accessible to all online. As well as recent work undertaken to create a 3D diary using photogrammetry.",
+                    "start": "14:30",
+                    "end": "15:30",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/conserving-annes-diaries-tickets-483715133987?aff=ebdsoporgprofile",
+                    "images": [
+                        "assets/images/events/central_library/1.jpg",
+                        "assets/images/events/central_library/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Anne Lister Ball",
+                    "location": "Todmorden Town Hall Bridge Street Todmorden OL14 5AA",
+                    "information": "An Anne Lister themed Ball – no dancing experience required, as all dances will be called. Dress Code: Period dress preferred 1790 -1840, or your own interpretation of it.",
+                    "start": "19:00",
+                    "end": "23:00",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/anne-lister-ball-tickets-456990389557?aff=ebdsoporgprofile",
+                    "images": [
+                        "assets/images/events/anne_lister_ball/1.jpg",
+                        "assets/images/events/anne_lister_ball/2.jpg",
+                        "assets/images/events/anne_lister_ball/3.jpg"
+                    ]
+                }
+            ],
+            "01-04-2023": [
+                {
+                    "name": "Anne Lister Society Conference (Day Two)",
+                    "location": "",
+                    "information": "Following on from the inaugural sessions in Halifax in April 2022, we are delighted that the Anne Lister Society will reconvene for its second conference, once again in Anne Lister’s hometown of Halifax.",
+                    "start": "9:00",
+                    "end": "13:00",
+                    "booking": "Not Required",
+                    "website": "https://english.northwestern.edu/about/anne-lister-society/als-second-meeting,-2023.html",
+                    "images": [
+                        "assets/images/events/society_conference/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Archives Search Room",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG, England, UK",
+                    "information": "Ever wanted to see one of Anne’s famous diaries in person? Ever wondered what other amazing paper records Anne left behind? Well, we have got you covered, visit our search room at the Central Library and Archives in Halifax to see a display of diaries and other items from the Shibden Hall archive collection.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/central_library/1.jpg",
+                        "assets/images/events/central_library/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Calderdale Industrial Museum",
+                    "location": "Calderdale Industrial Museum, Square Road, Halifax, HX1 1QG",
+                    "information": "Calderdale Industrial Museum is a fascinating museum, dedicated to the industrial heritage of the area from domestic textile manufacture in the 17thC through to modern machine tools. The museum contains a number of working machines, some of which date back almost two hundred years – all of which were either built or used in Halifax.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/industrial_museum/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Minster",
+                    "location": "Causeway, Halifax HX1 1QL",
+                    "information": "The magnificent 900-year old building that was such an important part of Anne Lister’s life and is where she was baptised, worshipped and is buried, will be open for quiet reflection throughout the Festival. The Minster will be open every day of the Festival from 10am-4pm (12-4pm on Sunday), and refreshments will be available.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://halifaxminster.org.uk/",
+                    "images": [
+                        "assets/images/events/minster/1.jpg",
+                        "assets/images/events/minster/2.jpg",
+                        "assets/images/events/minster/3.jpg",
+                        "assets/images/events/minster/4.jpg",
+                        "assets/images/events/minster/5.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Bus Tour",
+                    "location": "Halifax BID Information Centre, Halifax, HX1 1RJ",
+                    "information": "Jump aboard our informative heritage bus ride. See places which you might not know much about or even knew existed! Places with a wealth of history to tell, many with listed building status. Let our guides tell you more about some of the fascinating buildings and areas just a short distance from the town centre.",
+                    "start": "10:00",
+                    "end": "12:00",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic",
+                    "images": [
+                        "assets/images/events/bus_tour/1.jpg",
+                        "assets/images/events/bus_tour/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Ann Walker Watercolour Workshop",
+                    "location": "Bankfield Museum, Akroyd Park, Boothtown Road, Halifax, HX3 6HG",
+                    "information": "Enjoy the Ann Walker experience – no bonnet required! Come and join local artist Jane Austin for a watercolour workshop in a relaxed atmosphere at Bankfield Museum. A beautiful museum free to explore with ample parking and just a hop from Halifax town – get there on the hop on-hop off shuttle bus!",
+                    "start": "10:00",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.janeaustin.co.uk/",
+                    "images": [
+                        "assets/images/events/ann_walker_watercolour/1.jpg",
+                        "assets/images/events/ann_walker_watercolour/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Walking Tour of Halifax",
+                    "location": "10, The Square Woolshops, Halifax HX1 1RJ",
+                    "information": "Welcome to Halifax! Whether you have lived here all your life or it is your first time here and want to orientate yourself around town through the buildings and stories of our history, join us for a fascinating insight into Halifax Heritage. Come for a walk with a local guide, pointing out buildings and places previously unknown to you and hearing interesting details from the Medieval, Georgian and Victorian eras through to more modern times! Learn about the philanthropists and industrialists who shaped the heritage of Halifax through generations and encounter some of the listed buildings, including the Town Hall and the Piece Hall, which they left as their legacy.",
+                    "start": "10:30",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic",
+                    "images": [
+                        "assets/images/events/borough_market/1.jpg",
+                        "assets/images/events/borough_market/2.jpg",
+                        "assets/images/events/borough_market/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Children's Top Hat Decoration Workshop",
+                    "location": "Library, Square Rd, Halifax HX1 1QG",
+                    "information": "Family drop in. Inspired by Anne Lister come and decorate your own top hat. Just turn up at Central Library to take part!",
+                    "start": "10:30",
+                    "end": "14:30",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/top_hat_decoration/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Shibden Hall",
+                    "location": "Lister's Rd, Halifax HX3 6XG",
+                    "information": "Shibden Hall dates back to 1420 and offers visitors a fascinating journey through the lives of the people who lived and worked here, including the noted lesbian diarist Anne Lister. Shibden Hall is the focus of the BBC drama series ‘Gentleman Jack’, written by Sally Wainwright, exploring the life of Anne Lister, and is where much of the series was filmed. The Hall is surrounded by the beautifully restored gardens and estate that forms Shibden Park. There are a range of features and attractions in the Park, including a café and visitor facilities, miniature railway, boating lake, walking trails, play area and woodland areas.",
+                    "start": "11:00",
+                    "end": "17:00",
+                    "booking": "Required",
+                    "website": "https://museums.calderdale.gov.uk/visit/shibden-hall",
+                    "images": [
+                        "assets/images/events/shibden_hall/1.jpg",
+                        "assets/images/events/shibden_hall/2.jpg",
+                        "assets/images/events/shibden_hall/3.jpg",
+                        "assets/images/events/shibden_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Dean Clough Artists' Open Studios & Talks",
+                    "location": "The Crossley Gallery, D Mill Dean Clough Halifax HX3 5AX",
+                    "information": "The Dean Clough-based artists are opening their studios in Fletchers Mill – a great opportunity to meet the artists and see their studios! There will also be informal talks about their work and the work of the Arts Charity at Dean Clough (ACDC), followed by Q&A sessions – featuring artists Tom Wood, Jake Attree, Chris Mould, Laura Jade, Frank Darnley and Jeffrey Andrews.",
+                    "start": "11:00",
+                    "end": "15:00",
+                    "booking": "Not Required",
+                    "website": "https://www.eventbrite.co.uk/e/dean-clough-artists-talks-tickets-511542817337",
+                    "images": [
+                        "assets/images/events/dean_clough/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Ann Walker Watercolour Workshop",
+                    "location": "Bankfield Museum, Akroyd Park, Boothtown Road, Halifax, HX3 6HG",
+                    "information": "Enjoy the Ann Walker experience – no bonnet required! Come and join local artist Jane Austin for a watercolour workshop in a relaxed atmosphere at Bankfield Museum. A beautiful museum free to explore with ample parking and just a hop from Halifax town – get there on the hop on-hop off shuttle bus!",
+                    "start": "13:00",
+                    "end": "15:30",
+                    "booking": "Required",
+                    "website": "https://www.janeaustin.co.uk/",
+                    "images": [
+                        "assets/images/events/ann_walker_watercolour/1.jpg",
+                        "assets/images/events/ann_walker_watercolour/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Piece Hall Tour",
+                    "location": "Blackledge, Halifax HX1 1RE",
+                    "information": "Over its almost 250-yr history, The Piece Hall has been home to the weird, the wonderful and the fantastical. Experience a guided tour with one of our knowledgeable heritage guides who will lead you around the grand colonnades and delve deeper into The Piece Hall’s captivating past.",
+                    "start": "13:30",
+                    "end": "14:30",
+                    "booking": "Required",
+                    "website": "https://www.thepiecehall.co.uk/heritage/heritage-tours/",
+                    "images": [
+                        "assets/images/events/piece_hall/1.jpg",
+                        "assets/images/events/piece_hall/2.jpg",
+                        "assets/images/events/piece_hall/3.jpg",
+                        "assets/images/events/piece_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Town Hall Treasures Tour",
+                    "location": "Crossley Street, Halifax, West Yorkshire, HX1 1UJ",
+                    "information": "Join us on our special guided tour of Halifax Town Hall, a building of immense architectural significance both inside and out. So much so, it was voted one of the top ten Town Halls in the country in 2008 by Architect Today magazine and has been described as truly outstanding by Historic England.",
+                    "start": "14:00",
+                    "end": "15:30",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic/town-hall-treasures-walking-tour/e-zalqpr",
+                    "images": [
+                        "assets/images/events/town_hall/1.jpg",
+                        "assets/images/events/town_hall/2.jpg",
+                        "assets/images/events/town_hall/3.jpg",
+                        "assets/images/events/town_hall/4.jpg"
+                    ]
+                }
+            ],
+            "02-04-2023": [
+                {
+                    "name": "Halifax Bus Tour",
+                    "location": "Halifax BID Information Centre, Halifax, HX1 1RJ",
+                    "information": "Jump aboard our informative heritage bus ride. See places which you might not know much about or even knew existed! Places with a wealth of history to tell, many with listed building status. Let our guides tell you more about some of the fascinating buildings and areas just a short distance from the town centre.",
+                    "start": "10:00",
+                    "end": "12:00",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic/heritage-bus-tour/e-baodeb",
+                    "images": [
+                        "assets/images/events/bus_tour/1.jpg",
+                        "assets/images/events/bus_tour/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Panoramic Walking Halifax Tour",
+                    "location": "DiscoverHalifax, 10 The Square, Woolshops, HX1 1RJ",
+                    "information": "A delightful panoramic walk on the hills immediately around Halifax centre, offering extensive views over not only the town itself, but also the Hebble and Shibden Valleys. We’ll look at the marked prosperity of Georgian Halifax, based on trade and textiles, mining and minerals – all well before the Industrial Revolution.",
+                    "start": "10:00",
+                    "end": "13:30",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic/historical-panoramic-walking-tour-5-miles/e-dbeqoq",
+                    "images": [
+                        "assets/images/events/panoramic_walking/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Help Build Shibden Hall (LEGO Sessions)",
+                    "location": "The Crossley Gallery, D Mill Dean Clough Halifax HX3 5AX",
+                    "information": "Resident LEGO expert Michael LeCount needs your help! Come along and help Michael build a replica LEGO model of Shibden Hall, the ancient manor house famously inhabited by Anne Lister and featuring in the recent Gentleman Jack on BBC and HBO.",
+                    "start": "10:30",
+                    "end": "11:30",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/help-build-shibden-hall-lego-drop-in-sessions-tickets-512949173787",
+                    "images": [
+                        "assets/images/events/lego_shibden_hall/1.jpg",
+                        "assets/images/events/lego_shibden_hall/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Walking Tour of Halifax",
+                    "location": "10, The Square Woolshops, Halifax HX1 1RJ",
+                    "information": "Welcome to Halifax! Whether you have lived here all your life or it is your first time here and want to orientate yourself around town through the buildings and stories of our history, join us for a fascinating insight into Halifax Heritage. Come for a walk with a local guide, pointing out buildings and places previously unknown to you and hearing interesting details from the Medieval, Georgian and Victorian eras through to more modern times! Learn about the philanthropists and industrialists who shaped the heritage of Halifax through generations and encounter some of the listed buildings, including the Town Hall and the Piece Hall, which they left as their legacy.",
+                    "start": "10:30",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic",
+                    "images": [
+                        "assets/images/events/borough_market/1.jpg",
+                        "assets/images/events/borough_market/2.jpg",
+                        "assets/images/events/borough_market/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Shibden Hall",
+                    "location": "Lister's Rd, Halifax HX3 6XG",
+                    "information": "Shibden Hall dates back to 1420 and offers visitors a fascinating journey through the lives of the people who lived and worked here, including the noted lesbian diarist Anne Lister. Shibden Hall is the focus of the BBC drama series ‘Gentleman Jack’, written by Sally Wainwright, exploring the life of Anne Lister, and is where much of the series was filmed. The Hall is surrounded by the beautifully restored gardens and estate that forms Shibden Park. There are a range of features and attractions in the Park, including a café and visitor facilities, miniature railway, boating lake, walking trails, play area and woodland areas.",
+                    "start": "11:00",
+                    "end": "17:00",
+                    "booking": "Required",
+                    "website": "https://museums.calderdale.gov.uk/visit/shibden-hall",
+                    "images": [
+                        "assets/images/events/shibden_hall/1.jpg",
+                        "assets/images/events/shibden_hall/2.jpg",
+                        "assets/images/events/shibden_hall/3.jpg",
+                        "assets/images/events/shibden_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Help Build Shibden Hall (LEGO Sessions)",
+                    "location": "The Crossley Gallery, D Mill Dean Clough Halifax HX3 5AX",
+                    "information": "Resident LEGO expert Michael LeCount needs your help! Come along and help Michael build a replica LEGO model of Shibden Hall, the ancient manor house famously inhabited by Anne Lister and featuring in the recent Gentleman Jack on BBC and HBO.",
+                    "start": "11:30",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/help-build-shibden-hall-lego-drop-in-sessions-tickets-512949173787",
+                    "images": [
+                        "assets/images/events/lego_shibden_hall/1.jpg",
+                        "assets/images/events/lego_shibden_hall/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Minster",
+                    "location": "Causeway, Halifax HX1 1QL",
+                    "information": "The magnificent 900-year old building that was such an important part of Anne Lister’s life and is where she was baptised, worshipped and is buried, will be open for quiet reflection throughout the Festival. The Minster will be open every day of the Festival from 10am-4pm (12-4pm on Sunday), and refreshments will be available.",
+                    "start": "12:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://halifaxminster.org.uk/",
+                    "images": [
+                        "assets/images/events/minster/1.jpg",
+                        "assets/images/events/minster/2.jpg",
+                        "assets/images/events/minster/3.jpg",
+                        "assets/images/events/minster/4.jpg",
+                        "assets/images/events/minster/5.jpg"
+                    ]
+                },
+                {
+                    "name": "Piece Hall Tour",
+                    "location": "Blackledge, Halifax HX1 1RE",
+                    "information": "Over its almost 250-yr history, The Piece Hall has been home to the weird, the wonderful and the fantastical. Experience a guided tour with one of our knowledgeable heritage guides who will lead you around the grand colonnades and delve deeper into The Piece Hall’s captivating past.",
+                    "start": "13:30",
+                    "end": "14:30",
+                    "booking": "Required",
+                    "website": "https://www.thepiecehall.co.uk/heritage/heritage-tours/",
+                    "images": [
+                        "assets/images/events/piece_hall/1.jpg",
+                        "assets/images/events/piece_hall/2.jpg",
+                        "assets/images/events/piece_hall/3.jpg",
+                        "assets/images/events/piece_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Help Build Shibden Hall (LEGO Sessions)",
+                    "location": "The Crossley Gallery, D Mill Dean Clough Halifax HX3 5AX",
+                    "information": "Resident LEGO expert Michael LeCount needs your help! Come along and help Michael build a replica LEGO model of Shibden Hall, the ancient manor house famously inhabited by Anne Lister and featuring in the recent Gentleman Jack on BBC and HBO.",
+                    "start": "13:00",
+                    "end": "14:00",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/help-build-shibden-hall-lego-drop-in-sessions-tickets-512949173787",
+                    "images": [
+                        "assets/images/events/lego_shibden_hall/1.jpg",
+                        "assets/images/events/lego_shibden_hall/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Help Build Shibden Hall (LEGO Sessions)",
+                    "location": "The Crossley Gallery, D Mill Dean Clough Halifax HX3 5AX",
+                    "information": "Resident LEGO expert Michael LeCount needs your help! Come along and help Michael build a replica LEGO model of Shibden Hall, the ancient manor house famously inhabited by Anne Lister and featuring in the recent Gentleman Jack on BBC and HBO.",
+                    "start": "14:00",
+                    "end": "15:00",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/help-build-shibden-hall-lego-drop-in-sessions-tickets-512949173787",
+                    "images": [
+                        "assets/images/events/lego_shibden_hall/1.jpg",
+                        "assets/images/events/lego_shibden_hall/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Help Build Shibden Hall (LEGO Sessions)",
+                    "location": "The Crossley Gallery, D Mill Dean Clough Halifax HX3 5AX",
+                    "information": "Resident LEGO expert Michael LeCount needs your help! Come along and help Michael build a replica LEGO model of Shibden Hall, the ancient manor house famously inhabited by Anne Lister and featuring in the recent Gentleman Jack on BBC and HBO.",
+                    "start": "15:00",
+                    "end": "16:00",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/help-build-shibden-hall-lego-drop-in-sessions-tickets-512949173787",
+                    "images": [
+                        "assets/images/events/lego_shibden_hall/1.jpg",
+                        "assets/images/events/lego_shibden_hall/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Former Holy Trinity Church Viewing",
+                    "location": "Blackwall, Halifax, HX1 2QR",
+                    "information": "David Glover will read and speak a few words inside the former Holy Trinity Church – Anne Lister’s ‘new church’, now Trinity House (no seating) where you will have the incredibly rare opportunity to see some of the Rawson family memorials, and also John Abbott’s tombstone.",
+                    "start": "16:00",
+                    "end": "17:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/holy_trinity_church/1.jpg",
+                        "assets/images/events/holy_trinity_church/2.jpg"
+                    ]
+                }
+            ],
+            "03-04-2023": [
+                {
+                    "name": "Flower Laying at the Piece Hall",
+                    "location": "Blackledge, Halifax HX1 1RE",
+                    "information": "Join the Anne Lister community in laying flowers at the statue of Anne Lister, in the courtyard of The Piece Hall, and remember this iconic woman on what would have been her 232nd birthday",
+                    "start": "9:00",
+                    "end": "10:00",
+                    "booking": "Not Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/piece_hall/1.jpg",
+                        "assets/images/events/piece_hall/2.jpg",
+                        "assets/images/events/piece_hall/3.jpg",
+                        "assets/images/events/piece_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Anne Lister - In Her Words Exhibition",
+                    "location": "West Yorkshire History Centre, 127 Kirkgate, Wakefield, WF1 1JG",
+                    "information": "There are a lot of ways to describe the dynamic Anne Lister.  Visit the West Yorkshire History Centre, Wakefield, for a unique chance to see archival material from the Shibden Hall collection including some of Anne’s famous diaries on display.  Find out about the life of a remarkable woman in her own words.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://www.wyjs.org.uk/archive-service/events/anne-lister-in-her-words/",
+                    "images": [
+                        "assets/images/events/history_centre/1.jpg",
+                        "assets/images/events/history_centre/2.jpg",
+                        "assets/images/events/history_centre/3.jpg",
+                        "assets/images/events/history_centre/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Minster",
+                    "location": "Causeway, Halifax HX1 1QL",
+                    "information": "The magnificent 900-year old building that was such an important part of Anne Lister’s life and is where she was baptised, worshipped and is buried, will be open for quiet reflection throughout the Festival. The Minster will be open every day of the Festival from 10am-4pm (12-4pm on Sunday), and refreshments will be available.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Not Required",
+                    "website": "https://halifaxminster.org.uk/",
+                    "images": [
+                        "assets/images/events/minster/1.jpg",
+                        "assets/images/events/minster/2.jpg",
+                        "assets/images/events/minster/3.jpg",
+                        "assets/images/events/minster/4.jpg",
+                        "assets/images/events/minster/5.jpg"
+                    ]
+                },
+                {
+                    "name": "Shibden Hall",
+                    "location": "Lister's Rd, Halifax HX3 6XG",
+                    "information": "Shibden Hall dates back to 1420 and offers visitors a fascinating journey through the lives of the people who lived and worked here, including the noted lesbian diarist Anne Lister. Shibden Hall is the focus of the BBC drama series ‘Gentleman Jack’, written by Sally Wainwright, exploring the life of Anne Lister, and is where much of the series was filmed. The Hall is surrounded by the beautifully restored gardens and estate that forms Shibden Park. There are a range of features and attractions in the Park, including a café and visitor facilities, miniature railway, boating lake, walking trails, play area and woodland areas.",
+                    "start": "10:00",
+                    "end": "17:00",
+                    "booking": "Required",
+                    "website": "https://museums.calderdale.gov.uk/visit/shibden-hall",
+                    "images": [
+                        "assets/images/events/shibden_hall/1.jpg",
+                        "assets/images/events/shibden_hall/2.jpg",
+                        "assets/images/events/shibden_hall/3.jpg",
+                        "assets/images/events/shibden_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Anne Lister Codebreakers Sessions Talks",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG",
+                    "information": "The Anne Lister Diary Transcription Project Codebreakers have been working hard since 2019 to transcribe all of Anne’s diaries so everybody can read about Anne’s remarkable life on the WYAS online catalogue. Over the years they have gotten to know Anne and her life incredibly well, they would make an unbeatable Anne Lister pub quiz team!",
+                    "start": "10:00",
+                    "end": "11:00",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/o/west-yorkshire-archive-service-6184642557",
+                    "images": [
+                        "assets/images/events/codebreakers/1.jpg",
+                        "assets/images/events/codebreakers/2.jpg",
+                        "assets/images/events/codebreakers/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Streets In The Sky Tours",
+                    "location": "19 Albion St, Halifax HX1 1DU",
+                    "information": "On these tours you’ll explore the unique architecture of the Grade II* listed Halifax Borough Market, learn about its history, visit both of the Market balcony ‘Streets in the Sky’, where the houses are still used by the businesses below and a couple are still lived in; and get an exclusive look inside one of the uninhabited houses.",
+                    "start": "11:00",
+                    "end": "12:15",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/streets-in-the-sky-tour-monday-3rd-april-2023-11am-tickets-529456948987",
+                    "images": [
+                        "assets/images/events/streets_in_the_sky/1.jpg",
+                        "assets/images/events/streets_in_the_sky/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Bus Tour",
+                    "location": "Halifax BID Information Centre, Halifax, HX1 1RJ",
+                    "information": "Jump aboard our informative heritage bus ride. See places which you might not know much about or even knew existed! Places with a wealth of history to tell, many with listed building status. Let our guides tell you more about some of the fascinating buildings and areas just a short distance from the town centre.",
+                    "start": "11:00",
+                    "end": "13:00",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic/heritage-bus-tour/e-baodeb",
+                    "images": [
+                        "assets/images/events/bus_tour/1.jpg",
+                        "assets/images/events/bus_tour/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Anne Lister Codebreakers Sessions Talks",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG",
+                    "information": "The Anne Lister Diary Transcription Project Codebreakers have been working hard since 2019 to transcribe all of Anne’s diaries so everybody can read about Anne’s remarkable life on the WYAS online catalogue. Over the years they have gotten to know Anne and her life incredibly well, they would make an unbeatable Anne Lister pub quiz team!",
+                    "start": "11:30",
+                    "end": "12:30",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/o/west-yorkshire-archive-service-6184642557",
+                    "images": [
+                        "assets/images/events/codebreakers/1.jpg",
+                        "assets/images/events/codebreakers/2.jpg",
+                        "assets/images/events/codebreakers/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Anne Lister Codebreakers Sessions Talks",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG",
+                    "information": "The Anne Lister Diary Transcription Project Codebreakers have been working hard since 2019 to transcribe all of Anne’s diaries so everybody can read about Anne’s remarkable life on the WYAS online catalogue. Over the years they have gotten to know Anne and her life incredibly well, they would make an unbeatable Anne Lister pub quiz team!",
+                    "start": "13:00",
+                    "end": "14:00",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/o/west-yorkshire-archive-service-6184642557",
+                    "images": [
+                        "assets/images/events/codebreakers/1.jpg",
+                        "assets/images/events/codebreakers/2.jpg",
+                        "assets/images/events/codebreakers/3.jpg"
+                    ]
+                },
+                {
+                    "name": "Stop Motion Animation LEGO Workshop",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG",
+                    "information": "Using Lego Anne Lister and Lego Ann Walker as a starting point you will create your own movies using stop motion animation – come along and join in the fun!",
+                    "start": "13:00",
+                    "end": "14:15",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/calderdalelibraries/stop-motion-animation-at-central-library/e-lmkqzg",
+                    "images": [
+                        "assets/images/events/lego_animation/1.png"
+                    ]
+                },
+                {
+                    "name": "Streets In The Sky Tours",
+                    "location": "19 Albion St, Halifax HX1 1DU",
+                    "information": "On these tours you’ll explore the unique architecture of the Grade II* listed Halifax Borough Market, learn about its history, visit both of the Market balcony ‘Streets in the Sky’, where the houses are still used by the businesses below and a couple are still lived in; and get an exclusive look inside one of the uninhabited houses.",
+                    "start": "13:30",
+                    "end": "14:45",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/streets-in-the-sky-tour-monday-3rd-april-2023-130pm-tickets-529463368187",
+                    "images": [
+                        "assets/images/events/streets_in_the_sky/1.jpg",
+                        "assets/images/events/streets_in_the_sky/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Piece Hall Tour",
+                    "location": "Blackledge, Halifax HX1 1RE",
+                    "information": "Over its almost 250-yr history, The Piece Hall has been home to the weird, the wonderful and the fantastical. Experience a guided tour with one of our knowledgeable heritage guides who will lead you around the grand colonnades and delve deeper into The Piece Hall’s captivating past.",
+                    "start": "13:30",
+                    "end": "14:30",
+                    "booking": "Required",
+                    "website": "https://www.thepiecehall.co.uk/heritage/heritage-tours/",
+                    "images": [
+                        "assets/images/events/piece_hall/1.jpg",
+                        "assets/images/events/piece_hall/2.jpg",
+                        "assets/images/events/piece_hall/3.jpg",
+                        "assets/images/events/piece_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "Halifax Town Hall Tour",
+                    "location": "Crossley Street, Halifax, West Yorkshire, HX1 1UJ",
+                    "information": "This striking building was voted one of the top ten Town Halls in the country in 2008 by Architect Today magazine and has been described as truly outstanding by Historic England. Designed by Sir Charles Barry, architect of the Houses of Parliament, it was opened on 4 August 1863 by HRH The Prince of Wales. It was built to be the most grand and significant building in the town and stands today as a proud and permanent reminder of the affluence of Halifax in the Victorian era. This building never fails to impress visitors who travel from all over the country and world to see its splendours!",
+                    "start": "14:00",
+                    "end": "15:30",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/halifax-heritage-tours-cic/town-hall-treasures-walking-tour/e-zalqpr",
+                    "images": [
+                        "assets/images/events/town_hall/1.jpg",
+                        "assets/images/events/town_hall/2.jpg",
+                        "assets/images/events/town_hall/3.jpg",
+                        "assets/images/events/town_hall/4.jpg"
+                    ]
+                },
+                {
+                    "name": "In Conversation with Helena Whitbread",
+                    "location": "Bankfield Museum Boothtown Road Halifax HX3 6HG",
+                    "information": "Join Anne Lister biographer Helena Whitbread MBE as she discusses her life and work sharing Anne’s story.",
+                    "start": "14:00",
+                    "end": "16:00",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/the-helena-whitbread-story-tickets-474595557087?aff=ebdsoporgprofile",
+                    "images": [
+                        "assets/images/events/helena_whitbread/1.jpg"
+                    ]
+                },
+                {
+                    "name": "Streets In The Sky Tours",
+                    "location": "19 Albion St, Halifax HX1 1DU",
+                    "information": "On these tours you’ll explore the unique architecture of the Grade II* listed Halifax Borough Market, learn about its history, visit both of the Market balcony ‘Streets in the Sky’, where the houses are still used by the businesses below and a couple are still lived in; and get an exclusive look inside one of the uninhabited houses.",
+                    "start": "15:00",
+                    "end": "16:15",
+                    "booking": "Required",
+                    "website": "https://www.eventbrite.co.uk/e/streets-in-the-sky-tour-monday-3rd-april-2023-3pm-tickets-529464742297",
+                    "images": [
+                        "assets/images/events/streets_in_the_sky/1.jpg",
+                        "assets/images/events/streets_in_the_sky/2.jpg"
+                    ]
+                },
+                {
+                    "name": "Stop Motion Animation LEGO Workshop",
+                    "location": "Central Library and Archives, Square Road, Halifax, HX1 1QG",
+                    "information": "Using Lego Anne Lister and Lego Ann Walker as a starting point you will create your own movies using stop motion animation – come along and join in the fun!",
+                    "start": "15:00",
+                    "end": "16:15",
+                    "booking": "Required",
+                    "website": "https://www.ticketsource.co.uk/calderdalelibraries/stop-motion-animation-at-central-library/e-lmkqzg",
+                    "images": [
+                        "assets/images/events/lego_animation/1.png"
+                    ]
+                }
+            ],
+            "04-04-2023": [
+                {
+                    "name": "Yorkshire Rose Carving Course",
+                    "location": "The Boilerhouse, Shaw Lodge Mill, Boys Lane, Halifax, HX3 9EZ",
+                    "information": "Email: stonecarvingassociation@hotmail.co.uk for more info and to book a place! -- Learn how to relief carve a beautiful Yorkshire rose with the help of an experienced tutor in just one day – Anne Lister would be envious, and proud! Course suitable for total beginners, and intermediate carvers. You will be guided through the course and will take home your rose, carved in Yorkshire stone at the end of the day.",
+                    "start": "10:00",
+                    "end": "16:00",
+                    "booking": "Required",
+                    "website": "",
+                    "images": [
+                        "assets/images/events/rose_carving/1.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}
